@@ -1,2 +1,0 @@
-# bthserv Module
-#
